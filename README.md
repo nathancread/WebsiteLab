@@ -40,9 +40,9 @@
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
             <div class="dropdown-menu" aria-labelledby="dropdown01">
-              <a class="dropdown-item" href="#">Computer Science</a>
-              <a class="dropdown-item" href="#">Interests</a>
-              <a class="dropdown-item" href="#">Honors</a>
+              <a class="dropdown-item" href="https://nathancread.github.io/WebsiteLab2/">Computer Science</a>
+              <a class="dropdown-item" href="https://nathancread.github.io/WebsiteLab3/">Interests</a>
+              <a class="dropdown-item" href="https://nathancread.github.io/WebsiteLab4/">Honors</a>
             </div>
           </li>
         </ul>
@@ -68,17 +68,17 @@
         <div class="col-md-4">
           <h2>Computer Science</h2>
           <p>I am a freshman in the computer scinece program at Texas A&M</p>
-          <p><a class="btn btn-secondary" href="file:///D:/htmlstuff/HonorsSite/computerScience.html?#" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-secondary" href="https://nathancread.github.io/WebsiteLab2/" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
           <h2>Interests</h2>
           <p>All of my accomplishemnts outside of computer scinece.</p>
-          <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-secondary" href="https://nathancread.github.io/WebsiteLab3/" role="button">View details &raquo;</a></p>
        </div>
         <div class="col-md-4">
           <h2>Honors</h2>
           <p>I am a member of the University Honors Program at Texas A&M</p>
-          <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-secondary" href="https://nathancread.github.io/WebsiteLab4/" role="button">View details &raquo;</a></p>
         </div>
       </div>
 
